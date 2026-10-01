@@ -17,6 +17,6 @@ public class Welcomer{
 	}
 
 	public String sayHunter() {
-		return "Hunter hunt the hampster.";
+		return "hunter hunt the hampster.";
 	}
 }
